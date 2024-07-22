@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = ""
+authors = ["Julio Rafael <juliorafaelnft@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+markdown = "^3.6"
+fastapi = "^0.111.1"
+uvicorn = "^0.30.1"
+requests = "^2.32.3"
+langchain-core = "^0.2.22"
+langchain-community = "^0.2.9"
+langchain = "^0.2.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
