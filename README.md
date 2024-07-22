@@ -1,9 +1,3 @@
-# Meetings Transcription API
-
-Esta é a API para transcrição de reuniões, construída com FastAPI. Esta aplicação permite agendar reuniões, receber transcrições, e gerar resumos de reuniões.
-
-## Pré-requisitos
-
 Certifique-se de ter o `Poetry` instalado. Você pode instalar o `Poetry` seguindo as instruções na [documentação oficial](https://python-poetry.org/docs/#installation).
 
 ## Instalação
